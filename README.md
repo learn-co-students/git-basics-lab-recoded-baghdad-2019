@@ -115,7 +115,7 @@ back in the `git-basics-lab` folder before running `learn`.
    account. When creating a blank repository, you will be given instructions for
    pushing an existing repository from the command line. Copy the first line
    (`git remote add origin...`) and run in your command line to connect your
-   local repository with the new remote one.
+   local repositoryl with the new remote one.
 
 8. Push up your local work to the remote.
 
